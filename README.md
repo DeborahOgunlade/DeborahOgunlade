@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeborahOgunlade
+- 👋 Hi, I’m @DeborahOgunlade.
 - 👀 I’m interested in Cloud computing.
 - 🌱 I’m currently learning Cloud Security
 - 💞️ I’m looking to collaborate on AWS, Azure and Google Cloud project 
